@@ -33,4 +33,8 @@ MySQL Workbench (opcional, para gestión visual de base de datos)
 5. Agrega registros con los formularios y edítalos/elimínalos desde la tabla con los botones disponibles.
 
 # Capturas de pantalla
+![Ventana principal de peliculas](image.png)
+![Ventana principal de directores]({4F71E4F9-6D6B-47F6-B81B-5627AE3B94D0}.png)
+![Ventana de actualizacion de peliculas]({A282AA5C-5E4D-42CC-8797-EA1CA0C3703E}.png)
+![Ventana de actualizacion de directores]({2B28DA64-D887-4D13-BF07-EE3A6B06746D}.png)
 
